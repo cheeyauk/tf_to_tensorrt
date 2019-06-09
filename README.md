@@ -25,9 +25,9 @@ tensorboard --logdir=/tmp/tensorflow_logdir
 ```
 
 ## References ##
-[Keras to Tensorflow](https://github.com/jeng1220/KerasToTensorRT/blob/master/README.md)
-[Official TensorRT on Tensorflow page](https://github.com/tensorflow/models/tree/master/research/tensorrt)
-[Speeding up tensorflow inference by Nvidia team](https://medium.com/tensorflow/speed-up-tensorflow-inference-on-gpus-with-tensorrt-13b49f3db3fa)
+* [Keras to Tensorflow](https://github.com/jeng1220/KerasToTensorRT/blob/master/README.md)
+* [Official TensorRT on Tensorflow page](https://github.com/tensorflow/models/tree/master/research/tensorrt)
+* [Speeding up tensorflow inference by Nvidia team](https://medium.com/tensorflow/speed-up-tensorflow-inference-on-gpus-with-tensorrt-13b49f3db3fa)
 
 
 
