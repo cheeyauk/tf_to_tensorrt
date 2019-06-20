@@ -14,7 +14,7 @@ Step by step examples and visualization are available in the .ipynb file
 * Keras
 * opencv-python (can be replaced with Keras image or pillow)
 
-The notebook was run on a laptop with i7, 8GB RAM, and GTX 1060 GPU running ubuntu 16.04. The improvements might be more significant with better graphic cards.
+The notebook was run on a laptop with i7, 8GB RAM, and GTX 1060 GPU running ubuntu 16.04. The improvements might be more significant with better graphic cards. Please use the provided requirements.txt file. 
 
 ## Visualizing graphs on tensorboard ##
 If you intend to visualize the graphs before and after transformation on tensorboard, please get the code from official repo and import the .pb files after you export them from the notebook.
