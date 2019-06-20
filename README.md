@@ -7,6 +7,7 @@ Step by step examples and visualization are available in the .ipynb file
 
 * At this moment the repo is still using slightly outdated tftrt native conversion functions (create_inference_graph) instead of very recent TrtGraphConverter (April - May 2019) as some changes are still continuously being added at the time of writing. INT8 conversion is also not included as trt.calib_graph_to_infer_graph has been found to be removed from tf.nightly.
 
+* Densenet.h5 used in optimizing_densenet.ipynb is available here : [gdrive](https://drive.google.com/open?id=1kX_o4gTr47xdikmZLILcnCcwiBi8bcrJ)
 ## Requirement ##
 * Python (3.6)
 * TensorRT (5.0.2.6, follow download and installation instructions on https://developer.nvidia.com/tensorrt)
