@@ -9,7 +9,7 @@ Step by step examples and visualization are available in the .ipynb file
 
 ## Requirement ##
 * Python (3.6)
-* TensorRT (5.0.2.6, follow instructions on https://developer.nvidia.com/tensorrt)
+* TensorRT (5.0.2.6, follow download and installation instructions on https://developer.nvidia.com/tensorrt)
 * Tensorflow with TensorRT integration (> 1.13, recommended to use tf-nightly-gpu 1.14)
 * Keras
 * opencv-python (can be replaced with Keras image or pillow)
