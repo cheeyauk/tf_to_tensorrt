@@ -28,6 +28,7 @@ tensorboard --logdir=/tmp/tensorflow_logdir
 * [Keras to Tensorflow](https://github.com/jeng1220/KerasToTensorRT/blob/master/README.md)
 * [Official TensorRT on Tensorflow page](https://github.com/tensorflow/models/tree/master/research/tensorrt)
 * [Speeding up tensorflow inference by Nvidia team](https://medium.com/tensorflow/speed-up-tensorflow-inference-on-gpus-with-tensorrt-13b49f3db3fa)
+* [Running TensorRT on Colab](https://colab.research.google.com/github/deeponcology/PyTorchMedicalAI/blob/master/shlomo_dl_0009_tensor_rt.ipynb#scrollTo=ZJB4jfxZcM3s)
 
 
 
