@@ -1,7 +1,7 @@
 # Tensorflow to TensorRT 
 
 This project demonstrates how to convert a tensorflow model to tensorRT and show some simple benchmark using an experiment done using a GTX1060 GPU.
-The reason this repo was started as I found most existing are either outdated or too technical to be understood by novices. The experiment follows most of the common experiment using a ResNet 50 Imagenet model. 
+The reason this repo was started as I found most existing are either outdated or too technical to be understood by novices. The experiment follows most of the common experiment using a ResNet 50 Imagenet model. All the links below has been very helpful in preparing this repo.
 
 Step by step examples and visualization are available in the .ipynb file
 
